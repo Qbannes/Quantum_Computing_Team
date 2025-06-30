@@ -14,3 +14,4 @@ while True:
     if jahr == "Exit":
         break
     print(istSchaltjahr(int(jahr)))
+    print("test")
