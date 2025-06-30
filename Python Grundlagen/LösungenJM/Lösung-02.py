@@ -1,0 +1,8 @@
+print(" _______________")
+print("< Python rocks! >")
+print(" ---------------")
+print("       \   ^__^")
+print("        \  (oo)\_______")
+print("           (__)\       )\\/\\")
+print("               ||----w |")
+print("               ||     ||")
