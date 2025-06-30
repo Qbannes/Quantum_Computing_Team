@@ -193,3 +193,5 @@ print(f"format-Funktion: {(ende2-start2)}s")
 print(f"f-String:        {(ende3-start3)}s")
 
 #Teständerung für GitKraken
+
+# sdflksdf
