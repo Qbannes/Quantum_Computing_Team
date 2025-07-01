@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
+                "file": "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - X-Gatter"
+              "title": "01 - Deutsch-Josza-Alogrithmus"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
+                "file": "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 03 - X-Gatter"
+              "title": "Rückverweise für 01 - Deutsch-Josza-Alogrithmus"
             }
           },
           {
@@ -253,8 +253,10 @@
   },
   "active": "6555a72a7b2ee1d2",
   "lastOpenFiles": [
-    "02 - Quanten-Manipulation/00 - Quantengatter/02 - CNOT-Gatter.md",
+    "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
+    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
     "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
+    "02 - Quanten-Manipulation/00 - Quantengatter/02 - CNOT-Gatter.md",
     "Dokumentation.md",
     "02 - Quanten-Manipulation/00 - Quantengatter/01 - Hadamard-Gatter.md",
     "CNOT_gate.svg.png",
@@ -265,8 +267,6 @@
     "01 - Qubit/03 - Bloch-Kugel.md",
     "01 - Qubit/01 - Quantenbit (Qubit).md",
     "02 - Quanten-Manipulation/00 - Quantengatter",
-    "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
-    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
     "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
     "00 - Bilder/Unbenannt.jpg",
     "00 - Bilder/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
