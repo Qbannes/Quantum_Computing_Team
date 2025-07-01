@@ -1,0 +1,101 @@
+Nr.;Anrede;Vorname;Nachname;Geburtsdatum;Straße;Hausnummer;Postleitzahl;Stadt;Telefon;Mobil;Telefax;EMail;Newsletter;Eintragsdatum
+1;Frau;Jeannine;Vieten;;Auf dem Bühl;176;30938;Burgwedel;05139/34140260;;;j.vieten@spam-mail.none;;05.08.2000
+2;Frau;Berenike;Klostermann;28.06.1995;Weinberg;10;25924;Emmelsbüll-Horsbüll;;0159/2012065;;bklostermann@live-mail.none;;27.01.1998
+3;Frau;Cordula;Tschirner;;Höhweg;42;66265;Heusweiler;06806/6215649;0168/3466696;;;;02.11.1999
+4;Frau;Klara;Vogler;;Wohnpark am Weiher;58;29646;Bispingen;05194/70707952;0151/9702589;;klara_vogler@net-mail.none;;07.12.1978
+5;Herr;Wulf;Exner;;Laerstraße;92;74572;Blaufelden;;0168/9427121;;wulf.1952@retromail.none;ja;25.03.2017
+6;Herr;Ferdinand;Carmen;03.09.1934;Heimbacher Straße;16;67071;Ludwigshafen am Rhein;0621/67842561;0159/2012954;;ferdinand_1934@retromail.none;;05.08.1978
+7;Frau;Ehrentraud;Brandenburg;;Kleiner Ring;194;29223;Celle;05141/99960529;0155/3168211;05141/57302755;;;20.04.2022
+8;Frau;Birge;Grosche;;Osemundstraße;140;73529;Schwäbisch Gmünd;07171/6376488;;;bgrosche@net-mail.none;;11.11.2013
+9;Frau;Rosegret;Straßburg;;Kleingasse;192;16348;Marienwerder;03337/23036449;0171/5529713;;r.strassburg@hoster.none;;13.01.1943
+10;Frau;Cathrin;Henrichs;;In der Sengenau;154;38729;Wallmoden;05383/56434587;0169/6421737;;c-henrichs@anymail.none;ja;25.07.2000
+11;Frau;Bertlinde;Schorn;14.02.1934;Hüttenstraße;81;83313;Siegsdorf;08662/44009171;0159/6580054;08662/63901403;;;27.02.2008
+12;k.A.;Yasmin;Eckert;;Wiener Straße;49;23858;Reinfeld;04533/51652298;0157/8101713;;y.eckert@retromail.none;ja;01.08.2017
+13;Herr;Didi;Reichert;;Kapitelstraße;25;39120;Magdeburg;0391/45923054;0162/8986427;;;;22.11.2016
+14;Herr;Wiegbert;Barnickel;;Winkelweg;161;25927;Neukirchen;04664/28716168;0156/5212760;;wiegbert.1902@web.none;;07.01.1966
+15;Frau;Anett;Dammer;09.02.1959;Hermann-Treff-Weg;198;55578;Wallertheim;06732/44337204;0160/3072323;;adammer@web.none;ja;21.04.2013
+16;Herr;Bernold;Heeger;11.03.1909;Schenkstraße;150;29351;Eldingen;05148/18685529;;;;;06.10.1963
+17;Frau;Hannelotte;Siebenhaar;;Steimeler Straße;153;23896;Poggensee;;0169/7670443;;hannelotte.siebenhaar@bestmail.none;nein;13.05.2019
+18;Herr;Sieghart;Markgraf;;Auf Wissen Woog;193 b;66851;Horbach;06333/48116489;0173/4120738;06333/79939394;;;12.05.1954
+19;Frau;Heliane;Bieger;09.10.1953;Mahrweg;145;10318;Berlin;;0168/2329670;;h_bieger@email.none;ja;30.01.1988
+20;Herr;Rimbert;Kleist;;Lärchenweg;62;54673;Nasingen;;;;rimbert79@quickmail.none;;23.09.2009
+21;Herr;Wiethold;Bernecker;08.03.1911;Ferndorfer Straße;179;50969;Köln;0221/19199909;;;w_bernecker@email.none;ja;21.02.1951
+22;Frau;Heidemarie;Schlösser;;Im Hamm;153;55234;Hangen-Weisheim;06244/80071619;;;;;19.02.2000
+23;Herr;Utz;Janus;;Fercher Straße;156;26892;Heede;04963/10289427;0167/1620585;;utz.janus@web.none;;10.11.2021
+24;Herr;Sixtus;Olson;;Sonneneck;24;56244;Krümmel;02626/8611925;;;;ja;20.06.1987
+25;Herr;Heinzdieter;Offergeld;25.12.1999;Am Dreißig;94;39359;Böddensell;05804/95086465;0157/8292076;;hoffergeld@funmail.none;;23.06.2006
+26;Frau;Daniela;Riegger;;Flandernstraße;57;67744;Hoppstädten;;0165/4876047;;daniela_1966@mymail.none;nein;03.12.2009
+27;Frau;Maria;Frech;;Ahlener Straße;79;10965;Berlin;030/84534366;0157/9983539;;maria.2009@validmail.none;;01.04.2019
+28;k.A.;Reimund;Maass;24.08.1965;Hündelsgasse;166;71732;Tamm;;0169/3548426;;reimundmaass@inter-mail.none;;03.09.1975
+29;Frau;Bernadette;Dohr;16.02.1926;Hurstbrunnenstraße;182 a;56154;Boppard;06742/33572180;0158/6801577;;bernadette-dohr@web.none;ja;24.06.1932
+30;Herr;Tankred;Pausch;23.09.1913;Eichholzweg;55;88662;Überlingen;07551/51334277;0177/9933178;;tpausch@domain.none;;13.10.1965
+31;Frau;Elvire;Erhardt;;Berg;27;84187;Weng;08702/72288497;0155/9249760;;elvire_erhardt@kitty.none;;23.04.2010
+32;k.A.;Cäzilie;Schall;;An der Schmiede;84;48712;Gescher;02542/57230749;0150/3589967;;cschall@justmail.none;;03.01.2007
+33;Frau;Arntraud;Glöckler;;Dunkerhofstraße;161;53547;Leubsdorf;02644/49602976;;02644/39014726;a.gloeckler@email.none;;09.07.2010
+34;k.A.;Monique;Rolfes;;Alte Kölner Straße;175;57635;Ersfeld;02686/37027175;0167/5121946;;m-rolfes@company.none;ja;07.05.1995
+35;k.A.;Leuthold;Tischendorf;;Franz-Savels-Straße;102;94348;Atting;09429/91053366;0176/4822840;;;;14.11.1913
+36;Herr;Delf;Pieper;09.03.2005;Oberstockumer Weg;117;67126;Hochdorf-Assenheim;06231/77763268;0150/3424034;;delfpieper@spam-mail.none;ja;11.07.2017
+37;Herr;Matis;Kunstmann;;Finkenstraße;40;66909;Krottelbach;06383/76851492;0159/1918438;;matis-kunstmann@ultramail.none;ja;04.09.1961
+38;Frau;Caja;Eckhard;;Blumenrather Straße;198;29413;Neuekrug;;0167/3124136;;ceckhard@private.none;ja;03.01.2018
+39;Frau;Walda;Kosch;;Herderstraße;84;54689;Preischeid;06550/4815315;0154/9075102;;walda.kosch@bestmail.none;;28.07.2000
+40;Frau;Elvira;Stegen;;Haindorf;199;25767;Offenbüttel;04835/39879962;0176/5829060;;;;24.11.2011
+41;Frau;Fine;Böcker;08.03.1902;Witzheldener Straße;150;76835;Hainfeld;06323/48914537;0177/4182877;;fine_boecker@open-mail.none;;11.05.1920
+42;Herr;Robby;Henderson;;Wiesenstraße;192;55568;Lauschied;06751/24624102;0163/5114822;;;;15.03.1947
+43;Frau;Isa;Kröhnert;05.04.1943;August-Wörner-Straße;172;67823;Unkenbach;;0150/7472201;;i_kroehnert@ultramail.none;;21.10.1949
+44;Frau;Aylin;Reiher;;Herschbacher Weg;54;54597;Steffeln;06597/61333465;0156/8197442;;;;15.04.1999
+45;Frau;Gundel;Ruck;;Segbachstraße;47;57635;Fiersbach;02681/31435856;;;gundel-ruck@kitty.none;ja;05.05.1935
+46;Frau;Jeanett;Velte;;Steinweg;159;35327;Ulrichstein;06645/11637101;0175/5509048;;;;22.12.2000
+47;Herr;Lothar;Rabe;;Schmelendriß;143;59427;Unna;02303/47573813;;02303/66631317;;;12.01.1996
+48;Herr;Burchard;Lüttmann;30.11.1904;Heisterweg;189;41236;Mönchengladbach;02161/90581597;0156/6273520;;;;23.07.1998
+49;Herr;Hieronymus;Schomburg;;Am Siegerborn;141;47053;Duisburg;0203/80639544;;;hschomburg@retromail.none;;12.02.2022
+50;Frau;Claudia;Görlich;;Möserweg;122;67304;Kerzenheim;06351/37732933;;;c_1911@justmail.none;;16.07.1915
+51;Frau;Ehrentrudis;Tyler;;Kippdorfstraße;38;35394;Gießen;0641/24186147;0153/7693277;;ehrentrudis-tyler@justmail.none;;26.03.1997
+52;k.A.;Ulwin;Mutschler;02.11.1971;Lamprechtstraße;194;37627;Wangelnstedt;;0161/6718280;05532/87505828;ulwin.mutschler@domain.none;;23.06.1998
+53;Herr;Antonius;Henk;;Kurze Straße;132;56291;Steinbach;06764/15267039;0151/1386709;06764/51672770;antoniushenk@company.none;ja;16.08.1973
+54;Frau;Renilde;Krol;;Kampenstraße;4;76437;Rastatt;;0157/9692235;;renildekrol@quickmail.none;ja;03.09.2012
+55;Frau;Edith;Freiberg;30.04.2012;Letter Straße;90;28309;Bremen;0421/92110318;0168/2791884;;edith_freiberg@company.none;;29.08.2020
+56;Herr;Wedigo;Händel;11.04.1953;Oberm Garten;10;61206;Wöllstadt;;0171/3369589;;wedigohaendel@inter-mail.none;ja;13.02.1974
+57;Frau;Sylke;Hackenberg;29.07.1942;Dernbacher Straße;8;27628;Uthlede;04746/6630260;0170/5351728;;sylkehackenberg@company.none;;23.05.1946
+58;Frau;Elenore;Homann;;Betzdorfer Landstraße;184;44139;Dortmund;0231/33050232;0156/9421422;;elenore.homann@funmail.none;nein;26.02.2022
+59;k.A.;Valentin;Schormann;13.08.1974;Lucas-Cranach-Straße;75;76887;Oberhausen;06343/88324097;0156/8156185;;valentin.schormann@email.none;;01.03.1982
+60;Frau;Siglind;Hicks;;Beselerstraße;24;25361;Grevenkop;04824/44635906;0159/2680749;;s_hicks@kitty.none;;05.07.1967
+61;Frau;Annetrude;Püschel;;Kerßenbrockstraße;75;86368;Gersthofen;0821/4137785;;;annetrude-pueschel@trashmail.none;;29.03.1998
+62;Frau;Gertraud;Nohl;24.12.1945;Auf dem Pferdsborn;4;27624;Flögeln;04745/18909931;;;gertraudnohl@spam-mail.none;;22.12.1999
+63;Herr;Sturmius;Range;;Hinterm Köppel;81;66879;Steinwenden;06371/42639598;0153/3789779;;sturmius-range@ultramail.none;;27.03.2022
+64;Herr;Theobert;Drews;15.04.1961;Trift;111;54673;Sevenig;06564/57040249;0165/3652219;;;;08.03.2015
+65;Frau;Clara;Tank;;Wikingerstraße;1;66399;Mandelbachtal;06804/92423532;0170/2255199;;c.tank@retromail.none;;20.09.2004
+66;Herr;Fried;Boysen;20.07.1985;Erzstraße;177;47546;Kalkar;02824/41015938;0157/7949499;;;;30.11.2013
+67;Frau;Armgard;Hainz;;An der Fuhr;33;74930;Ittlingen;07266/3334314;0171/4921816;;;;03.11.2007
+68;Herr;Jannick;Beeck;;Schaftrift;113;49424;Goldenstedt;;;;;;08.12.1995
+69;Frau;Thekla;Münstermann;;St.-Thomaser-Hohl;197;56332;Niederfell;;0171/8183771;;theklamuenstermann@trashmail.none;;26.08.1936
+70;Herr;Bernt;Diedrichsen;;Oberste Ströthe;121;56812;Dohr;02671/60086822;0152/2424135;;bernt.diedrichsen@xyz.none;ja;14.03.2008
+71;Frau;Birke;Stockmann;;Heven;43;54649;Dackscheid;06554/76560634;0157/2640755;06554/90387522;b_1916@private.none;ja;15.01.1948
+72;Herr;Burkard;Donaubauer;;Speichstraße;98;54570;Wallenborn;06592/64233993;;;b.donaubauer@anymail.none;ja;07.06.1942
+73;Herr;Pirmin;Sanchez;;Im Bungert;78;63071;Offenbach am Main;069/18042444;0161/5106090;069/33127595;pirminsanchez@retromail.none;;25.03.2019
+74;Herr;Friedmuth;Geske;24.05.2007;Sonnenhof;170;88356;Ostrach;07585/24544512;;;;ja;18.06.2012
+75;Herr;Meinrad;Irion;;Kurhausstraße;180;42285;Wuppertal;0202/28129566;0169/1279665;0202/9556660;meinrad.irion@email.none;;29.11.1951
+76;Frau;Gottfriede;Mackowiak;;Ginnerbach;94;73566;Bartholomä;;0174/2572574;07173/81224315;gottfriede.2002@web.none;;12.03.2007
+77;Frau;Daniela;Dummer;;Neuendorfer Straße;184;54424;Etgert;06504/86942617;;;d_dummer@inter-mail.none;;25.07.1970
+78;Herr;Bert;Siedler;;Franziskusstraße;185;25864;Löwenstedt;04843/32548195;0165/1448660;;;;18.12.1974
+79;k.A.;Detlef;Kahn;;Oligstraße;79;77880;Sasbach;07841/36884826;0173/8799645;;detlef-kahn@xyz.none;;01.06.1972
+80;Frau;Thekla;Gutekunst;;Bayernweg;168;48161;Münster;;;;t.gutekunst@company.none;;04.01.1955
+81;Frau;Gerta;Zanger;03.07.1926;Roter Weg;185 c;96342;Stockheim;09265/95051391;;;;;23.12.1940
+82;k.A.;Isedore;Schlotterbeck;;Pescher Straße;159;56283;Ney;06747/67302598;0175/1663248;;isedore_schlotterbeck@live-mail.none;ja;31.01.2022
+83;Frau;Amely;Venzke;05.02.1975;Schiffweilerstraße;80;77796;Mühlenbach;07832/9513211;;;amely-venzke@validmail.none;;24.01.1998
+84;Herr;Swen;Recker;;Im Burggarten;178;66957;Ruppertsweiler;06331/43166809;0173/3882030;;swenrecker@private.none;;02.11.1985
+85;Herr;Yannik;Stuckmann;12.04.1933;Hirmerweg;146;54597;Burbach;06563/13980071;0174/5218957;;;;27.08.1943
+86;k.A.;Gritt;Scheffler;;Thürner Weg;33;51399;Burscheid;02174/56735649;0155/8325337;;gritt_1976@bestmail.none;ja;20.06.1981
+87;Frau;Holle;Pott;;Wiedenhof;70;54689;Reipeldingen;06550/28806990;;06550/39783276;holle_pott@inter-mail.none;ja;07.09.2018
+88;Herr;Cedrik;Nothdurft;;An der Elle;72;76889;Kapellen-Drusweiler;06343/74281877;;;;;24.03.1941
+89;Herr;Eckehardt;Lahmann;;Am Asterter Feld;64;76857;Wernersberg;06346/9873125;;;e.lahmann@domain.none;;05.03.1961
+90;k.A.;Gertwin;Bubeck;31.01.1957;Nachtigallenweg;59;51519;Odenthal;02202/36878552;0151/6409233;;;ja;26.09.2014
+91;Frau;Damaris;Grabow;;Sydowstraße;165;92265;Edelsfeld;09665/91180865;;;d_grabow@xyz.none;nein;01.01.1987
+92;Frau;Katrein;Baumer;23.06.1928;Am Mathagen;188;79108;Freiburg;0761/41161329;0156/4799902;;k_baumer@funmail.none;nein;14.12.2005
+93;Herr;Ferfried;Maaßen;;Brookstraße;159;27419;Sittensen;04282/21438255;0150/4021967;;ferfried-21@open-mail.none;;30.11.2021
+94;Herr;Jacob;Gabel;;Voßstraße;140 c;86756;Reimlingen;09081/67216066;0164/7811073;;jacob_87@ultramail.none;;12.09.2005
+95;Herr;Dieter;Gonschorek;;Kornkamp;148;49584;Fürstenau;05901/75304189;;05901/96485404;d-gonschorek@mymail.none;nein;15.11.1953
+96;Frau;Annegret;Kerst;;Frohnwiese;72;41236;Mönchengladbach;02161/7686335;0162/9808562;;annegret_kerst@inter-mail.none;;21.09.2014
+97;Frau;Antonie;Schwaiger;27.06.2008;Bert-Brecht-Straße;5;31180;Giesen;05121/93157766;0168/9653711;;antonie.schwaiger@funmail.none;nein;27.09.2015
+98;Herr;Laurenz;Stute;;Lachenstraße;103;63071;Offenbach am Main;069/65872441;0174/8635503;;laurenz-stute@funmail.none;;26.11.1997
+99;k.A.;Debora;Mair;;Hinter der Heeg;141;89356;Haldenwang;08222/8445341;0167/7997601;;;;10.03.2003
+100;Frau;Karen;Knaak;02.07.2011;Bühlstraße;80;54608;Oberlascheid;06551/21382767;0178/6071378;;karen-knaak@web.none;;09.03.2012
