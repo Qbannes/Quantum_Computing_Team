@@ -24,6 +24,5 @@ $$
 Alle anderen Zustände sind bei und nach der Messung irrelevant.
 
 [[Bloch-Kugel]]
-[[Superpositionsprinzip]]
 [[Verschränkung]]
 [[Quantengatter]]
