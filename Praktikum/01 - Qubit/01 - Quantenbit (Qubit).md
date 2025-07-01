@@ -23,6 +23,6 @@ $$
 
 Alle anderen Zustände sind bei und nach der Messung irrelevant.
 
-[[Bloch-Kugel]]
-[[Verschränkung]]
-[[Quantengatter]]
+[[03 - Bloch-Kugel]]
+[[02 - Verschränkung]]
+[[02 - Quantengatter]]

@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qubit/Quantenbit (Qubit).md",
+                "file": "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quantenbit (Qubit)"
+              "title": "01 - Deutsch-Josza-Alogrithmus"
+            }
+          },
+          {
+            "id": "98c88f8806a8f186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Grover-Algorithmus"
+            }
+          },
+          {
+            "id": "7c0e69ecc622ab4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Quanten-Manipulation/02 - Quantengatter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Quantengatter"
+            }
+          },
+          {
+            "id": "00d45ad38d131c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Quanten-Manipulation/00 - Quantengatter/Hadamard-Gatter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hadamard-Gatter"
             }
           },
           {
@@ -27,30 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qubit/Verschränkung.md",
+                "file": "01 - Qubit/02 - Verschränkung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verschränkung"
+              "title": "02 - Verschränkung"
             }
           },
           {
-            "id": "a552658e911c4c6f",
+            "id": "377994111fb5fab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Qubit/Bloch-Kugel.md",
+                "file": "02 - Quanten-Manipulation/02 - Quantengatter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloch-Kugel"
+              "title": "02 - Quantengatter"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -123,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Quanten-Manipulation/00 - Quantengatter/Hadamard-Gatter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rückverweise für Hadamard-Gatter"
             }
           },
           {
@@ -181,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,21 +237,39 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "a552658e911c4c6f",
+  "active": "00d45ad38d131c45",
   "lastOpenFiles": [
-    "Qubit/Quantenbit (Qubit).md",
-    "Qubit/Verschränkung.md",
-    "Qubit/Bloch-Kugel.md",
-    "Quantengatter.md",
-    "Qubit/Quantenregister.md",
-    "Qubit/unitäre Matrizen.md",
-    "Qubit/Superpositionsprinzip.md",
+    "01 - Qubit/02 - Verschränkung.md",
+    "02 - Quanten-Manipulation/02 - Quantengatter.md",
+    "02 - Quanten-Manipulation/01 - Quantenregister.md",
+    "02 - Quanten-Manipulation/00 - Quantengatter/Hadamard-Gatter.md",
+    "01 - Qubit/04 - unitäre Matrizen.md",
+    "01 - Qubit/03 - Bloch-Kugel.md",
+    "01 - Qubit/01 - Quantenbit (Qubit).md",
+    "02 - Quanten-Manipulation/00 - Quantengatter",
+    "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
+    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
     "Dokumentation.md",
+    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
+    "00 - Bilder/Unbenannt.jpg",
+    "00 - Bilder/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
+    "03 - Quantenalgorithmen",
+    "02 - Quanten-Manipulation",
+    "01 - Qubit",
+    "00 - Bilder/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
+    "00 - Bilder/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
+    "00 - Bilder",
+    "02 - Qubit-Manipulation/02 - Quantengatter.md",
+    "02 - Qubit-Manipulation/01 - Quantenregister.md",
+    "00 - Bilder/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
+    "00 - Bilder/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
+    "Verschränkung.md",
+    "02 - Qubit-Manipulation",
+    "03 - Quantenalgorithmen",
+    "Qubit/Superpositionsprinzip.md",
     "{EFE567C2-2E82-425F-8C36-ACCB69E4CAFC}.png",
-    "Bilder",
-    "Bilder/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
-    "Qubit",
-    "Bilder/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
+    "00 - Bilder",
+    "01 - Qubit",
     "Quantencomputing.md",
     "Welcome.md"
   ]
