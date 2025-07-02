@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
+                "file": "Dokumentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Grover-Algorithmus"
+              "title": "Dokumentation"
             }
           }
         ],
@@ -183,6 +183,10 @@
   },
   "active": "b1070055183da9aa",
   "lastOpenFiles": [
+    "02 - Quanten-Manipulation/00 - Quantengatter/02 - CNOT-Gatter.md",
+    "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
+    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
+    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
     "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
     "Dokumentation.md",
     "01 - Qubit/02 - Verschränkung.md",
@@ -191,12 +195,8 @@
     "02 - Quanten-Manipulation/00 - Quantengatter/01 - Hadamard-Gatter.md",
     "00 - Bilder/Unbenannt.jpg",
     "Unbenannt.md",
-    "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
-    "02 - Quanten-Manipulation/00 - Quantengatter/02 - CNOT-Gatter.md",
     "02 - Quanten-Manipulation/02 - Quantengatter.md",
     "02 - Quanten-Manipulation/01 - Quantenregister.md",
-    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
-    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
     "00 - Bilder/CNOT_gate.svg.png",
     "01 - Qubit/03 - Bloch-Kugel.md",
     "02 - Quanten-Manipulation/00 - Quantengatter",
