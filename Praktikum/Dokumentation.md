@@ -2,8 +2,13 @@
 - Begrüßung
 - Einrichtung Arbeitsplatz
 - Buch: Quantencomputing (S. )
-	- Was ist ein [[Quantenbit (Qubit)]]?
+	- Was ist ein [[01 - Quantenbit (Qubit)]]?
 - Einführung Python
 - Einführung Statistik
 ## Tag 2
-- [[Quantengatter]] 
+- [[01 - Quantenregister]], [[02 - Quantengatter]],  [[02 - Verschränkung]]
+- [[01 - Deutsch-Josza-Alogrithmus]] angefangen
+- [[02 - Grover-Algorithmus]] angefangen
+- Fragen: Interferenz und Reversibilität
+- Antwort: Physik und unitäre Matrizen, also einfach so hinnehmen
+- Mit Quantengattern angefangen

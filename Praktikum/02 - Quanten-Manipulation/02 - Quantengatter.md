@@ -1,7 +1,7 @@
 Keine standardisierte Technologie für Qubits.
 Reversibilität.
 
-3 Grundgatter (X, Y, Z) als [[unitäre Matrizen]].
+3 Grundgatter (X, Y, Z) als [[04 - unitäre Matrizen]].
 $$
 X = \begin{pmatrix} 0  & 1\\ 1 & 0 \end{pmatrix} 
 $$
