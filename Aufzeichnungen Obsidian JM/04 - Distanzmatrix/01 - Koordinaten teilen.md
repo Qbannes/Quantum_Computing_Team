@@ -6,3 +6,5 @@ $$
 umwandeln.
 Array mit Länge der Koordinaten
 Jeweils mit Array Länge 2
+
+...
