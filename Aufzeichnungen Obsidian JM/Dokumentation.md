@@ -13,4 +13,10 @@
 - Antwort: Physik und unitäre Matrizen, also einfach so hinnehmen
 - Mit Quantengattern angefangen
 ## Tag 3
-- 
+- Mit Python html-Datei auswerten und in CSV umschreiben
+- Mit Python CSV-Datei auswerten und als Distanzmatrix darstellen
+- Mit Python Distanzmatrix als Heatmap darstellen
+- [[01 - Distanzmatrix]] 
+## Tag 4
+- Einstieg Qiskit [[01 - Visualisierung]]
+- https://quantum.cloud.ibm.com/docs/de/guides 
