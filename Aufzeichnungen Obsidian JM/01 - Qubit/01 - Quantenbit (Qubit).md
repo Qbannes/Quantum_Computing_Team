@@ -7,6 +7,12 @@ $$
 |0 \rangle \text{ und } |1 \rangle
 $$
 Ket-Null und Ket-Eins.
+$$
+|0 \rangle = \left[\begin{array}{c}1  \\ 0 \end{array}\right]
+$$
+$$
+|1 \rangle = \left[\begin{array}{c}0  \\ 1 \end{array}\right]
+$$
 
 $$
 |\varphi \rangle = \alpha \cdot |0 \rangle + \beta \cdot |1 \rangle

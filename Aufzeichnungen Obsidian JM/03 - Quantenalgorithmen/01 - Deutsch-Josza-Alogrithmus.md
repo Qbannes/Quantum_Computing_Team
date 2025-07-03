@@ -1,3 +1,4 @@
+Erster Quantenalgorithmus, der ein Problem schneller lösen kann als ein klassischer Algorithmus.
 NICHT dazu da, um Rechenprobleme zu lösen
 f ist ein Orakel / eine BlackBox, also unbekannt
 

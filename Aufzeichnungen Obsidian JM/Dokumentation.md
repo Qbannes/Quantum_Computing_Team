@@ -12,3 +12,5 @@
 - Fragen: Interferenz und Reversibilität
 - Antwort: Physik und unitäre Matrizen, also einfach so hinnehmen
 - Mit Quantengattern angefangen
+## Tag 3
+- 
