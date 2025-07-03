@@ -1,1 +1,0 @@
-print("\n\n  Hurra - es klappt")
