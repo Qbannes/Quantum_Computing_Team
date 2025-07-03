@@ -22,4 +22,6 @@
 - Einstieg Qiskit [[01 - Visualisierung]]
 - https://quantum.cloud.ibm.com/docs/de/guides 
 - Mit Qiskit Zufallsalgorithmus simuliert [[03 - Zufallsalgorithmus]]
-- 
+- Als Barchart ausgegeben
+- Einblick in die Komplexität hinter Neuronalen Netzen
+- Python Grundlagen Teil 2
