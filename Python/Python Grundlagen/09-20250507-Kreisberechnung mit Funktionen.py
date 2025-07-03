@@ -4,7 +4,7 @@ import math
 # Berechnungsvorschriften mittels Funktionen
 # Funktionen werden durch 'def' eingeleitet, danach folgt der Name, danach die Parameterliste.Soll eine
 # Funktion fertig sein und das Ergebnis zurückliefern, so wird dies mit dem Return-Statement gemacht.
-def umfang(r: float):
+def umfang(r):
     return (2 * math.pi * r)
     
 
