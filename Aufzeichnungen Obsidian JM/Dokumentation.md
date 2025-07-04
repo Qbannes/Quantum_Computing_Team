@@ -26,5 +26,9 @@
 - Einblick in die Komplexität hinter Neuronalen Netzen
 - Python Grundlagen Teil 2
 ## Tag 5
-- SQL
-- 
+- Wiederholung alles
+- Matrizenmultiplikation handschriftlich, Mathematische Grundlagen bis S. 72
+- https://sync.academiccloud.de/index.php/s/dMc1XB1uC88ZA2F#pdfviewer
+- SQL Island
+- SQL Tutorial: https://datalemur.com/sql-tutorial/sql-select
+- Stand: https://datalemur.com/sql-tutorial/sql-between
