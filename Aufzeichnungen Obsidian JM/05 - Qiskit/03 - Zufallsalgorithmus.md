@@ -9,7 +9,7 @@ gesamt_counter0 = 0
 gesamt_counter1 = 0
 
 for i in range(0, 1000):
-    job = simulator.run(qc, shots=shots)  # Nur zehn Schuss für ein Zufallsbit
+    job = simulator.run(qc, shots=shots)  
     result = job.result()
     counts = result.get_counts()
     for bitstring, anzahl in counts.items():
@@ -24,9 +24,9 @@ for i in range(0, 1000):
 Beispiel Darstellung:
 
 names = ["0", "1"]
-counte = [gesamt_counter0, gesamt_counter1]
-plt.bar(names, counte)
+count = [gesamt_counter0, gesamt_counter1]
+plt.bar(names, count)
 plt.show()
-print(counte)
+print(count)
 ```
 ![[Pasted image 20250703123622.png]]

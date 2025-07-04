@@ -19,9 +19,12 @@
 - [[01 - Distanzmatrix]] 
 - [[02 - Ergebnis (Heatmap)]]
 ## Tag 4
-- Einstieg Qiskit [[01 - Visualisierung]]
+- Einstieg Qiskit [[01 - Visualisierung eines Quantencircuits]]
 - https://quantum.cloud.ibm.com/docs/de/guides 
-- Mit Qiskit Zufallsalgorithmus simuliert [[03 - Zufallsalgorithmus]]
-- Als Barchart ausgegeben
+- Mit Qiskit Zufallsalgorithmus simulieren [[03 - Zufallsalgorithmus]]
+- Als Barchart ausgeben
 - Einblick in die Komplexität hinter Neuronalen Netzen
 - Python Grundlagen Teil 2
+## Tag 5
+- SQL
+- 

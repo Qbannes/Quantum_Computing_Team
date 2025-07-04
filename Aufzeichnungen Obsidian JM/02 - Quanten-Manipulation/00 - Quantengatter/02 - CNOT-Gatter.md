@@ -3,4 +3,4 @@ $$
 $$
 
 Controlled NOT = XOR
-Wenn das Kontrollqubit = Ket-Eins, dann wird das Ausgangsqubit ebenfalls zu Ket-Eins, wenn es vorher Ket-Null war. Andersrum ebenso.
+Wenn das Kontrollqubit = Ket-Eins, dann wird das Ausgangsqubit geflippt. Andersrum ebenso.

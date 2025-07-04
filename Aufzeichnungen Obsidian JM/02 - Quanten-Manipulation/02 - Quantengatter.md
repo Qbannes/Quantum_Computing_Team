@@ -1,7 +1,7 @@
-Keine standardisierte Technologie für Qubits.
+Keine standardisierte Technologie für Qubits (verschiedene Ideen, z.B.: Supraleiter, Spin eines Elektrons)
 Reversibilität.
 
-3 Grundgatter (X, Y, Z) als [[04 - Matrizen multiplizieren]].
+3 Grundgatter (X, Y, Z) auch Pauli-Gatter:
 $$
 X = \begin{pmatrix} 0  & 1\\ 1 & 0 \end{pmatrix} 
 $$

@@ -4,7 +4,7 @@ $$
 
 [41.3317, 19.8172]$$
 umwandeln.
-Array mit Länge der Koordinaten
-Jeweils mit Array Länge 2
+Liste mit Länge der Koordinaten
+Jeweils mit Liste Länge 2
 
 ...
