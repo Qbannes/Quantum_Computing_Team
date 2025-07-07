@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c4befaeeece4101",
+        "id": "4926be9949a3449d",
         "type": "tabs",
         "children": [
           {
-            "id": "ccee9515804b3594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Quantenbit (Qubit)"
-            }
-          },
-          {
-            "id": "b1070055183da9aa",
+            "id": "1fe1e97ffb8c41c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +22,7 @@
             }
           },
           {
-            "id": "e576f31d04291ef7",
+            "id": "4c36ece76e4b210f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,102 +33,10 @@
               },
               "icon": "lucide-file",
               "title": "Dokumentation"
-            }
-          },
-          {
-            "id": "474e0a9d00bd9b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Distanzmatrix/01 - Distanzmatrix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Distanzmatrix"
-            }
-          },
-          {
-            "id": "2c5a5eb149ea8abe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 - Bilderverzeichnis/HeatmapV1.png"
-              },
-              "icon": "lucide-image",
-              "title": "HeatmapV1"
-            }
-          },
-          {
-            "id": "651cc8ef3758a995",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 - Bilderverzeichnis/HeatmapV1.png"
-              },
-              "icon": "lucide-image",
-              "title": "HeatmapV1"
-            }
-          },
-          {
-            "id": "0fdd6e6b908fd1d9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 - Bilderverzeichnis/HeatmapFinal.png"
-              },
-              "icon": "lucide-image",
-              "title": "HeatmapFinal"
-            }
-          },
-          {
-            "id": "fb83b299609606f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Qiskit/01 - Visualisierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Visualisierung"
-            }
-          },
-          {
-            "id": "01b051cf04c75967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Qiskit/02 - Transpilieren.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 - Transpilieren"
-            }
-          },
-          {
-            "id": "5389fbbcd1e45e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Qiskit/03 - Zufallsalgorithmus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Zufallsalgorithmus"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 392.5
   },
   "right": {
     "id": "7a20f025e1e137c0",
@@ -287,50 +181,50 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5389fbbcd1e45e91",
+  "active": "4c36ece76e4b210f",
   "lastOpenFiles": [
-    "00 - Bilder/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
-    "00 - Bilder/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
-    "00 - Bilder/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
-    "00 - Bilder/Unbenannt.jpg",
-    "00 - Bilder/Pasted image 20250703100630.png",
-    "00 - Bilder/Pasted image 20250703095942.png",
-    "00 - Bilder/Pasted image 20250703095851.png",
-    "00 - Bilder/Pasted image 20250703093539.png",
-    "00 - Bilder/HeatmapV1.png",
-    "00 - Bilder/HeatmapFinal.png",
-    "00 - Bilder/CNOT_gate.svg.png",
-    "00 - Bilder",
-    "02 - Quanten-Manipulation/02 - Quantengatter.md",
-    "02 - Quanten-Manipulation/01 - Quantenregister.md",
-    "01 - Qubit/03 - Bloch-Kugel.md",
-    "01 - Qubit/02 - Verschränkung.md",
-    "01 - Qubit/01 - Quantenbit (Qubit).md",
-    "02 - Quanten-Manipulation/00 - Quantengatter/01 - Hadamard-Gatter.md",
-    "05 - Qiskit/03 - Zufallsalgorithmus.md",
+    "06 - SQL/01 - SQL - Island.md",
+    "00 - Bilderverzeichnis/Pasted image 20250704134140.png",
     "Dokumentation.md",
     "04 - Distanzmatrix/01 - Distanzmatrix.md",
-    "04 - Distanzmatrix/02 - Ergebnis (Heatmap).md",
+    "06 - SQL",
+    "01 - Qubit/03 - Bloch-Kugel.md",
+    "02 - Quanten-Manipulation/02 - Quantengatter.md",
+    "02 - Quanten-Manipulation/01 - Quantenregister.md",
+    "05 - Qiskit/03 - Zufallsalgorithmus.md",
     "05 - Qiskit/02 - Transpilieren.md",
-    "05 - Qiskit/01 - Visualisierung.md",
+    "05 - Qiskit/01 - Visualisierung eines Quantencircuits.md",
+    "04 - Distanzmatrix/02 - Ergebnis (Heatmap).md",
     "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
-    "05 - Qiskit",
-    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
     "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
+    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
+    "01 - Qubit/02 - Verschränkung.md",
+    "01 - Qubit/01 - Quantenbit (Qubit).md",
+    "00 - Bilderverzeichnis/{A74AE3D1-BEFE-45CA-B0A8-DDC40214492A}.png",
+    "00 - Bilderverzeichnis/{9F60E4C4-FB1B-41BE-84A5-178AEA694044}.png",
+    "00 - Bilderverzeichnis/{1742FD17-5D03-493D-990A-A011FFA5150D}.png",
+    "00 - Bilderverzeichnis/Unbenannt.jpg",
+    "00 - Bilderverzeichnis/Pasted image 20250703123622.png",
+    "00 - Bilderverzeichnis/Pasted image 20250703100630.png",
+    "00 - Bilderverzeichnis/Pasted image 20250703095942.png",
+    "00 - Bilderverzeichnis/Pasted image 20250703095851.png",
+    "00 - Bilderverzeichnis/Pasted image 20250703093539.png",
+    "00 - Bilderverzeichnis",
+    "00 - Bilder",
+    "05 - Qiskit",
     "data_image_png;base64,iVBORw0KGgoAAAANSUhEUgAAEsAAABLACAYAAABUB5zqAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjAsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvlHJYcgAAAAlwSFlzAABcRgAAXEYBFJRDQQABAABJREFUeJzs3EEBACAQgDC1f+ezBT7cEpCAPTOzAAAAAAAAAAAAAAAAAAAA.url",
     "04 - Distanzmatrix",
-    "02 - Quanten-Manipulation/00 - Quantengatter/02 - CNOT-Gatter.md",
-    "02 - Quanten-Manipulation/00 - Quantengatter/03 - X-Gatter.md",
     "01 - Qubit/04 - Matrizen multiplizieren.md",
-    "02 - Quanten-Manipulation/00 - Quantengatter",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter",
     "03 - Quantenalgorithmen",
     "02 - Quanten-Manipulation",
     "01 - Qubit",
-    "00 - Bilderverzeichnis",
     "02 - Qubit-Manipulation/02 - Quantengatter.md",
     "02 - Qubit-Manipulation/01 - Quantenregister.md",
     "Verschränkung.md",
-    "02 - Qubit-Manipulation",
     "Qubit/Superpositionsprinzip.md",
     "Quantencomputing.md",
     "Welcome.md"

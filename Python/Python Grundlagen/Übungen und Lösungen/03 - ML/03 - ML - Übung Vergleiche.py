@@ -1,7 +1,7 @@
 def maximum(a, b):
     # Prüfung, ob die übergebenen Werte Ganzzahlen sind
-    a = int(a)
-    b = int(b)
+    a = a
+    b = b
     
     # Ergebnis vorfestlegen mit a
     result = a

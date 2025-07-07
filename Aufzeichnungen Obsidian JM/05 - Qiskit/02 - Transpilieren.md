@@ -5,6 +5,6 @@
  wird![[Pasted image 20250703095942.png]]
 Änderung durch Anwendung eines persönlich modifizierten Pass Managers, der benachbarte Zwei-Qubit Gatter in verschiedene R-Gatter zerlegt.
 
-Nicht relevant (bei unserem Projekt), da 
+Ändert bei einfachen Circuits nichts.
 ![[Pasted image 20250703100630.png]]
-schon sehr einfach ist.
+

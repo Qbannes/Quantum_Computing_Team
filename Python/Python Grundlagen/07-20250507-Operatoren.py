@@ -24,7 +24,7 @@ Arithmetische Operatoren
     +       Addition
     -       Subtraktion
     *       Multiplikation
-    **      Exponentation
+    **      Exponentiation
     /       Division
     //      Ganzzahldivision
     %       Modulo / Restzahldivision
