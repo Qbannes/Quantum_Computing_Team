@@ -32,3 +32,7 @@
 - SQL Island
 - SQL Tutorial: https://datalemur.com/sql-tutorial/sql-select
 - Stand: https://datalemur.com/sql-tutorial/sql-between
+
+## Tag 6 
+- [[01 - Physikalische Zufallsgeneratoren]]
+- 
