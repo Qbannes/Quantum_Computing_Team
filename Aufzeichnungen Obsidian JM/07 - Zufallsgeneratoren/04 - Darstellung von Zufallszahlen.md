@@ -20,4 +20,3 @@ Vorhersehbar vs. Unvorhersehbar
 daraus folgende Implikationen:
 - PRNGs sind berechenbar und somit nicht sicher
 - Wahre Zufallszahlen sind nicht berechenbar (kein Muster)
-
