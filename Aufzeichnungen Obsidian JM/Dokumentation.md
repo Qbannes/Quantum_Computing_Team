@@ -35,4 +35,4 @@
 
 ## Tag 6 
 - Zufallsgeneratoren
-- 
+- SQL (Stand: https://datalemur.com/sql-tutorial/sql-group-by)

@@ -8,9 +8,16 @@ weitere Ideen
 - Umwandlung von Binärzahlen in Dezimalzahlen
 
 Quantenzufall vs.
-Hoch komplexer Zufall vs.
+Hoch komplexer Zufall vs. 
 Pseudozufall vs.
-algorithmischer Zufall vs.
 menschlicher Zufall vs.
-geplanter menschlicher Zufall
+geplanter menschlicher Zufall vs. 
+KI-generierte Zufallszahlen
+
+Große Menge Zufallszahlen vergleichen -> kein signifikanter Unterschied
+Unterschied in der Herkunft
+Vorhersehbar vs. Unvorhersehbar
+daraus folgende Implikationen:
+- PRNGs sind berechenbar und somit nicht sicher
+- Wahre Zufallszahlen sind nicht berechenbar (kein Muster)
 
