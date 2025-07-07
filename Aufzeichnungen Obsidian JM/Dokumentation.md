@@ -34,5 +34,5 @@
 - Stand: https://datalemur.com/sql-tutorial/sql-between
 
 ## Tag 6 
-- [[01 - Physikalische Zufallsgeneratoren]]
+- Zufallsgeneratoren
 - 
