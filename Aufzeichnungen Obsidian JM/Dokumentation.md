@@ -32,3 +32,7 @@
 - SQL Island
 - SQL Tutorial: https://datalemur.com/sql-tutorial/sql-select
 - Stand: https://datalemur.com/sql-tutorial/sql-between
+
+## Tag 6 
+- Zufallsgeneratoren
+- SQL (Stand: https://datalemur.com/sql-tutorial/sql-group-by)
