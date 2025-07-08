@@ -33,9 +33,10 @@ Wie funktionieren sie?
 
 Beispiel: Python-PRNG
 
-import random
+import random                 
 
-random.seed(42)  #Fester Seed = reproduzierbare "Zufallsfolge"
+random.seed(42)  
+
 
 zufallsbits = [random.randint(0, 1) for _ in range(100000)]
 
