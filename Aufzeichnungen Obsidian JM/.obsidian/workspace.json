@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+                "file": "Dokumentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Code Quantenzufall"
+              "title": "Dokumentation"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+                "file": "Dokumentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 01 - Code Quantenzufall"
+              "title": "Rückverweise für Dokumentation"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+                "file": "Dokumentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 01 - Code Quantenzufall öffnen"
+              "title": "Ausgehende Links von Dokumentation öffnen"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+                "file": "Dokumentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 01 - Code Quantenzufall"
+              "title": "Gliederung von Dokumentation"
             }
           }
         ]
@@ -185,13 +185,14 @@
   },
   "active": "5659892e7e648166",
   "lastOpenFiles": [
-    "07 - Zufallsgeneratoren/04 - Darstellung von Zufallszahlen.md",
+    "06 - SQL/01 - SQL - Island.md",
+    "06 - SQL/02 - Klammern sind sehr wichtig.md",
     "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+    "07 - Zufallsgeneratoren/04 - Darstellung von Zufallszahlen.md",
     "08 - Projekt Zufall",
     "07 - Zufallsgeneratoren/03 - Konkrete Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/02 - Deterministische Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
-    "07 - Zufallsgeneratoren",
-    "06 - SQL/02 - Klammern sind sehr wichtig.md"
+    "07 - Zufallsgeneratoren"
   ]
 }
