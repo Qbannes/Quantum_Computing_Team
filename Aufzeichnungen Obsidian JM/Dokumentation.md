@@ -38,4 +38,6 @@
 - SQL (Stand: https://datalemur.com/sql-tutorial/sql-group-by)
 ## Tag 7 
 - Programmierung des Zufallsprogramms in Qiskit
+- Verknüpfung mit Hardware
+- Umwandlung in Bit, Byte und Dezimalzahlen
 - 

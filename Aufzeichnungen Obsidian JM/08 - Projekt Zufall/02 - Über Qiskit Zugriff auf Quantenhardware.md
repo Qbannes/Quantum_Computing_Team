@@ -1,5 +1,5 @@
 ```
-token = "Rrr699kyClGtBINBrMOquIBZUV8er2LKWomy2uJ3ih8m"
+token = "dein token"
 
 QiskitRuntimeService.save_account(
     channel="ibm_cloud",         
@@ -22,5 +22,5 @@ job = sampler.run([isa_circuit], shots = 1000)
 
 print("Job-ID:", job.job_id())
 ```
-
-
+Sampler, um Werte zu erhalten und nicht das Andere (mit Estimator).
+service = QiskitRuntimeService() verweist automatisch auf die vorher gespeicherten Daten.
