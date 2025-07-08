@@ -32,7 +32,10 @@
 - SQL Island
 - SQL Tutorial: https://datalemur.com/sql-tutorial/sql-select
 - Stand: https://datalemur.com/sql-tutorial/sql-between
-
-## Tag 6 
-- Zufallsgeneratoren
+## Tag 6 (07.07.2025)
+- Zufallsgeneratoren & Wirkungsweise
+- Start von Projekt Zufall
 - SQL (Stand: https://datalemur.com/sql-tutorial/sql-group-by)
+## Tag 7 
+- Programmierung des Zufallsprogramms in Qiskit
+- 
