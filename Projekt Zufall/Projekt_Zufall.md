@@ -43,7 +43,7 @@ zufallsbits = [random.randint(0, 1) for _ in range(100000)]
 Warum ist Quantenzufall anders?
 
     Ein Qubit in Superposition
-$$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle\,$$
+$$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle,\,\$$
     ​kollabiert bei der Messung zufällig zu 0 oder 1.
 
     Anwendung: Kryptografie, Lotterien, wissenschaftliche Simulationen.
