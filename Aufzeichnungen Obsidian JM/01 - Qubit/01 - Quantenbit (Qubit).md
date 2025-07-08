@@ -27,7 +27,7 @@ $$
 |\alpha|^2 = \text{Wahrscheinlichkeit, dass das Qubit zu } |0\rangle \text{ kollabiert.}
 $$
 
-Alle anderen Zustände sind bei und nach der Messung irrelevant.
+Alle anderen Zustände (Superpositionen) sind bei und nach der Messung irrelevant.
 
 [[03 - Bloch-Kugel]]
 [[02 - Verschränkung]]

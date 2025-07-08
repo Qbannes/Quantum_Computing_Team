@@ -19,7 +19,7 @@ for i in range(0, 1000):
             elif bit == '1':
                 gesamt_counter1 += anzahl
 ```
-500000 zufällige Bits werden erstellt und gezählt.
+500000 zufällige Qubits werden erstellt, transformiert und gemessen.
 ```
 Beispiel Darstellung:
 

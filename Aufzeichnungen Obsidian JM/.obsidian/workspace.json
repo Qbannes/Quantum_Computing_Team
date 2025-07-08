@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Qubit/03 - Bloch-Kugel.md",
+                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 - Bloch-Kugel"
+              "title": "01 - Quantenbit (Qubit)"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Qubit/03 - Bloch-Kugel.md",
+                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise für 03 - Bloch-Kugel"
+              "title": "Rückverweise für 01 - Quantenbit (Qubit)"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Qubit/03 - Bloch-Kugel.md",
+                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 03 - Bloch-Kugel öffnen"
+              "title": "Ausgehende Links von 01 - Quantenbit (Qubit) öffnen"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Qubit/03 - Bloch-Kugel.md",
+                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03 - Bloch-Kugel"
+              "title": "Gliederung von 01 - Quantenbit (Qubit)"
             }
           }
         ]
@@ -199,23 +199,32 @@
   },
   "active": "70bc50372a57fb04",
   "lastOpenFiles": [
-    "Dokumentation.md",
-    "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
-    "08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
-    "08 - Projekt Zufall/01 - Code Quantenzufall.md",
-    "06 - SQL/02 - Klammern sind sehr wichtig.md",
-    "06 - SQL/01 - SQL - Island.md",
-    "02 - Quanten-Manipulation/02 - Quantengatter.md",
+    "01 - Qubit/02 - Verschränkung.md",
+    "01 - Qubit/03 - Bloch-Kugel.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
     "02 - Quanten-Manipulation/01 - Quantenregister.md",
-    "01 - Qubit/01 - Quantenbit (Qubit).md",
-    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
-    "07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
+    "02 - Quanten-Manipulation/02 - Quantengatter.md",
+    "06 - SQL/02 - Klammern sind sehr wichtig.md",
     "05 - Qiskit/01 - Visualisierung eines Quantencircuits.md",
     "05 - Qiskit/02 - Transpilieren.md",
+    "05 - Qiskit/03 - Zufallsalgorithmus.md",
+    "04 - Distanzmatrix/02 - Ergebnis (Heatmap).md",
+    "04 - Distanzmatrix/01 - Distanzmatrix.md",
+    "03 - Quantenalgorithmen/03 - Shor-Algorithmus.md",
+    "03 - Quantenalgorithmen/02 - Grover-Algorithmus.md",
+    "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
+    "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
+    "01 - Qubit/01 - Quantenbit (Qubit).md",
+    "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
+    "Dokumentation.md",
+    "08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
+    "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+    "06 - SQL/01 - SQL - Island.md",
+    "07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/02 - Deterministische Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/04 - Darstellung von Zufallszahlen.md",
     "07 - Zufallsgeneratoren/03 - Konkrete Zufallsgeneratoren.md",
-    "02 - Über Qiskit Zugriff auf.md",
     "08 - Projekt Zufall",
     "07 - Zufallsgeneratoren"
   ]
