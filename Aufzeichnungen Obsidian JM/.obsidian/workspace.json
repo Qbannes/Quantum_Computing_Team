@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Projekt Zufall/04 - Echte Ergebnisse!.md",
+                "file": "08 - Projekt Zufall/05 - Vergleich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - Echte Ergebnisse!"
+              "title": "05 - Vergleich"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "dd7c38172eafa8a1",
   "lastOpenFiles": [
+    "06 - Warum bringt Statistik nichts.md",
     "08 - Projekt Zufall/05 - Vergleich.md",
     "Dokumentation.md",
     "08 - Projekt Zufall/04 - Echte Ergebnisse!.md",
@@ -238,7 +239,6 @@
     "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
     "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
     "06 - SQL/01 - SQL - Island.md",
-    "07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
     "08 - Projekt Zufall",
     "07 - Zufallsgeneratoren"
   ]
