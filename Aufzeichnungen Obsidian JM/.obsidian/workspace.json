@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Qubit/01 - Quantenbit (Qubit).md",
+                "file": "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Quantenbit (Qubit)"
+              "title": "03 - Von Hex zu Bit, Byte und Dez"
+            }
+          },
+          {
+            "id": "63b0fe0b8d67cdc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unbenannt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unbenannt"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,8 +211,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "70bc50372a57fb04",
+  "active": "63b0fe0b8d67cdc8",
   "lastOpenFiles": [
+    "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
+    "Unbenannt.md",
+    "08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
+    "08 - Projekt Zufall/01 - Code Quantenzufall.md",
+    "01 - Qubit/01 - Quantenbit (Qubit).md",
     "01 - Qubit/02 - Verschränkung.md",
     "01 - Qubit/03 - Bloch-Kugel.md",
     "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/03 - X-Gatter.md",
@@ -215,16 +234,11 @@
     "03 - Quantenalgorithmen/01 - Deutsch-Josza-Alogrithmus.md",
     "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/02 - CNOT-Gatter.md",
     "02 - Quanten-Manipulation/00 - Spezifische Quantengatter/01 - Hadamard-Gatter.md",
-    "01 - Qubit/01 - Quantenbit (Qubit).md",
-    "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
     "Dokumentation.md",
-    "08 - Projekt Zufall/02 - Über Qiskit Zugriff auf Quantenhardware.md",
-    "08 - Projekt Zufall/01 - Code Quantenzufall.md",
     "06 - SQL/01 - SQL - Island.md",
     "07 - Zufallsgeneratoren/01 - Physikalische Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/02 - Deterministische Zufallsgeneratoren.md",
     "07 - Zufallsgeneratoren/04 - Darstellung von Zufallszahlen.md",
-    "07 - Zufallsgeneratoren/03 - Konkrete Zufallsgeneratoren.md",
     "08 - Projekt Zufall",
     "07 - Zufallsgeneratoren"
   ]
