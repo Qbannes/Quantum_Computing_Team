@@ -1,0 +1,6 @@
+Typ,Chi² p-Wert,Runs p-Wert,Ljung-Box p,Lempel-Ziv,Max Power,Entropie,Pattern p-Wert,Bitflip p-Wert,Pseudozufall?
+Python Pseudozufall,0.38832,0.65465,0.54327,1.02586,4.75278,0.99997,0.58287,0.66108,Nein
+Echter Zufall (simuliert),0.13756,0.88638,0.75827,1.02229,4.25395,0.99992,0.15106,0.89872,Nein
+Kryptografischer Zufall,0.47076,0.41415,0.58279,1.02371,4.75705,0.99998,0.13749,0.42017,Nein
+Mersenne Twister,0.42018,0.95123,0.11528,1.02300,7.06545,0.99998,0.71307,0.95489,Nein
+Hardware-Zufall,0.77730,0.61106,0.04482,1.02657,4.52756,1.00000,0.90687,0.62061,Nein
