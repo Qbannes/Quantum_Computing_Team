@@ -44,3 +44,7 @@
 - Erstellung 100.000 Zufallszahlen mit Quantencomputer
 - Besprechung Zukunft (GraphQl, Orang, Neo (oder so), )
 - Projekt Zufall Auswertung
+- Vertiefung SQL
+- Dokumentation
+- Github Education (solange ich Schüler bin)
+
