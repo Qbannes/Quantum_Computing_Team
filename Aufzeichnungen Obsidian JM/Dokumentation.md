@@ -40,4 +40,7 @@
 - Programmierung des Zufallsprogramms in Qiskit
 - Verknüpfung mit Hardware
 - Umwandlung in Bit, Byte und Dezimalzahlen
-- 
+## Tag 8
+- Erstellung 100.000 Zufallszahlen mit Quantencomputer
+- Besprechung Zukunft (GraphQl, Orang, Neo (oder so), )
+- Projekt Zufall Auswertung
