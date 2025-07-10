@@ -47,4 +47,7 @@
 - Vertiefung SQL (https://datalemur.com/sql-tutorial/sql-case-statement)
 - Dokumentation
 ## Tag 9
-- 
+- Ende von Projekt Zufall
+- SQL
+- Beschäftigung Verschränkung
+
