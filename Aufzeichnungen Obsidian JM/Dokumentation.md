@@ -42,9 +42,9 @@
 - Umwandlung in Bit, Byte und Dezimalzahlen
 ## Tag 8
 - Erstellung 100.000 Zufallszahlen mit Quantencomputer
-- Besprechung Zukunft (GraphQl, Orang, Neo (oder so), )
+- Besprechung Zukunft (u.a. https://arangodb.com/rated-the-1-graph-database-in-the-world-for-summer-2025/)
 - Projekt Zufall Auswertung
-- Vertiefung SQL
+- Vertiefung SQL (https://datalemur.com/sql-tutorial/sql-case-statement)
 - Dokumentation
-- Github Education (solange ich Schüler bin)
-
+## Tag 9
+- 
