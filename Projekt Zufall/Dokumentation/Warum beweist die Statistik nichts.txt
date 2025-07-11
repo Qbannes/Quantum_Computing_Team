@@ -1,0 +1,43 @@
+Warum beweist die Statistik nichts?
+Die statistische Untersuchung der Bitreihen in Bezug auf ihre Zufälligkeit lässt keine Schlüsse auf die Herkunft ebendieser zu. 
+D.h., nur anhand der Ergebnissen ist es unmöglich zu sagen, ob eine Bitreihe einem deterministischen oder tatsächlich echtem Zufallsgenerator entspringt.
+Ausschlaggebend für dieses Erkenntnis ist, dass echte und Pseudozufallsalgorithmen dieselbe zufällige Bitreihe erzeugen können, zwar ist dies extrem unwahrscheinlich, aber trotzdem möglich.
+Daraus und der Tatsache, dass die Algorithmen der statistischen Untersuchung deterministisch, also gleicher Input führt zu gleichem Output, sind, folgt nun die Erkenntnis, dass die Auswertung der Zufälligkeit einer 
+jeglicher Informationskette lediglich Aussagen über die Zufälligkeit ermöglicht und nicht über die Herkunft Dieser.
+
+Technische Unterschiede der Herkunft der Zufälligkeit
+Pseudozufall vs. echter Zufall
+Pseudozufall entsteht mithilfe deterministischer Algorithmen. Wie oben erklärt, ein deterministischer Algorithmus gibt dem gleichen Input, den man bei Zufallsalgorithmen "Seed" (lit. Saat, Startwert) nennt, den gleichen Output.
+Bei einem Zufallsgenerator möchte man aber unterschiedliche Outputs haben. Deswegen werden diese PRNG (Pseudo Random Number Generator) häufig bei Simulationsexperimenten verwendet, da sie wiederholbar sind.
+Da liegt auch der entscheidende Unterschied zwischen PRNGs und TRNGs (True Random Number Generator). TRNGs sind nicht wiederholbar, denn ihre Seeds basieren auf nichtdeterministischen Quellen. Zu den bekanntesten zählen die Quantenphysik, radioaktiver Zerfall und thermisches Rauschen. Weil aber der normale PC keinen Zugriff auf diese Werte hat, greift er auf Quasi-Zufälle zurück, z.B. die Zeit, die zwischen zwei Mausklicks verstreicht. 
+Quantencomputing gehört nicht zu der klassischen Informatik, im Gegensatz zu den beiden eben genannten Algorithmen. Es basiert auf der Quantenmechanik und kann deswegen nur echten Zufall erzeugen.
+
+quelle alles: http://www.fim.uni-linz.ac.at/lva/Web_Security/Abgaben/Schuerz-RNG.pdf
+
+Von KI überarbeitet:
+Warum beweist Statistik nichts über die Herkunft von Zufallsdaten?
+
+Die statistische Analyse von Bitreihen hinsichtlich ihrer Zufälligkeit erlaubt keinerlei Rückschluss auf deren Ursprung. Das bedeutet: Allein anhand statistischer Testergebnisse lässt sich nicht entscheiden, ob eine Bitfolge aus einem deterministischen Pseudozufallsalgorithmus stammt oder durch einen echten, physikalischen Zufallsprozess erzeugt wurde. Ausschlaggebend für diese Erkenntnis ist ein fundamentaler Umstand: Echte und pseudozufällige Generatoren können rein theoretisch exakt dieselbe Bitreihe erzeugen. Diese Übereinstimmung ist zwar extrem unwahrscheinlich, aber nicht unmöglich. Daraus folgt: Statistische Zufälligkeit impliziert keine ontologische Aussage über die Quelle. Verschärft wird dieses Dilemma durch die Tatsache, dass auch die statistischen Tests selbst deterministisch arbeiten – das heißt, sie liefern bei gleichem Input stets denselben Output. Daraus ergibt sich eine Art erkenntnistheoretische Schranke: Die Tests prüfen lediglich ob eine Bitfolge „zufällig aussieht“, aber sie verraten nicht woher diese kommt. Sie urteilen über das Erscheinungsbild, nicht über das Wesen.
+Fazit:
+Statistische Analysen können nur Aussagen über das Maß der Zufälligkeit einer Datenreihe treffen, aber niemals über deren technische oder physikalische Herkunft.
+
+Pseudozufall vs. echter Zufall: Ein technischer Blick
+Pseudozufall entsteht durch deterministische Algorithmen. Gibt man einem solchen Algorithmus denselben Startwert, den sogenannten Seed, so produziert er immer dieselbe Ausgabe. Dieser deterministische Charakter ist gewollt: In Simulationen, Tests und Debugging-Szenarien ist Reproduzierbarkeit ein Segen.
+Echte Zufallsgeneratoren (TRNGs – True Random Number Generators) hingegen operieren auf Basis nichtdeterministischer Quellen wie quantenmechanischen Effekten, radioaktivem Zerfall oder thermischem Rauschen. Diese Prozesse sind, nach heutigem Stand der Physik, fundamental unvorhersagbar. Da normale Computer jedoch keinen direkten Zugang zu solchen Quellen haben, greifen sie auf sogenannte Quasi-Zufälle zurück, z.B. die Zeitabstände zwischen Tastatureingaben oder Mausbewegungen. Auch wenn das auf den ersten Blick „echt“ wirkt, handelt es sich hierbei oft um eine Notlösung mit eingeschränkter Entropiequelle. Quantencomputer wiederum spielen in einer eigenen Liga. Sie basieren auf den Prinzipien der Quantenmechanik und können daher echten Zufall erzeugen, nicht als Nebeneffekt, sondern als inhärente Eigenschaft ihres Rechenmodells. Dies unterscheidet sie fundamental von klassischen Pseudozufalls- und sogar von manchen TRNG-Verfahren.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Erzeugung von 100.000 zufälligen Bits mit dem Quantencomputer von IBM in Sherbrooke, Kanada
+Nach 27 Sekunden fertiggestellt
+Probleme beim Auslesen der Ergebnisse: Andere Speichermethode (vermutlich wegen größerer Datenmengen)
+
+Eventuelle Lösung des Problems durch KI:
+```
+samples = result[0].data.meas.array
+
+import numpy as np
+flattened_array = samples.flatten()
+```
+Der erste Teil holt die Ergebnisse, der zweite Teil bringt sie in brauchbare Form.

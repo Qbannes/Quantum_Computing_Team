@@ -50,4 +50,10 @@
 - Ende von Projekt Zufall
 - SQL
 - Beschäftigung Verschränkung
-
+## Tag 10
+- Würfelspiel 101
+- Tabellennormalisierung
+- Anomalien
+- relationale Datenbanken
+- ![[Pasted image 20250711104052.png]]
+- Sortierung
