@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9207c215416a5f31",
+        "id": "5260a5ee72117631",
         "type": "tabs",
         "children": [
           {
-            "id": "594a0e8239594aa4",
+            "id": "04cf84f44dfea1cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Dokumentation.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.0669974499528245,
+                  "close": true
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dokumentation"
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
             }
           }
         ]
@@ -168,12 +190,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "594a0e8239594aa4",
+  "active": "04cf84f44dfea1cd",
   "lastOpenFiles": [
+    "04 - Distanzmatrix/02 - Ergebnis (Heatmap).md",
+    "Dokumentation.md",
     "06 - SQL/03 - Normalisierung.md",
     "06 - SQL/04 - Anomalien.md",
     "06 - SQL/05 - Beziehungen in relationalen Datenbanken.md",
-    "Dokumentation.md",
     "08 - Projekt Zufall/03 - Von Hex zu Bit, Byte und Dez.md",
     "00 - Bilderverzeichnis/Pasted image 20250711104052.png",
     "08 - Projekt Zufall/06 - echter Zufall vs. Pseudozufall (technisch und mathematisch).md",
