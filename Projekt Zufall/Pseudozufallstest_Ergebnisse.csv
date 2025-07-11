@@ -1,0 +1,6 @@
+Typ,Chi² p-Wert,Runs p-Wert,Ljung-Box p,Lempel-Ziv (Rice),Power Ratio,Entropie,Markov p-Wert,Universal p-Wert,Pseudozufall?
+Python Pseudozufall,0.38832,0.65465,0.54327,0.96744,9.50687,0.99997,0.60896,0.28764,Nein
+Echter Zufall (simuliert),0.70258,0.76726,0.21118,0.96744,10.89209,0.99999,0.69709,0.19582,Ja
+Kryptografischer Zufall,0.30857,0.78251,0.16477,0.99417,9.94104,0.99996,0.47014,0.72691,Nein
+Mersenne Twister,0.38832,0.66752,0.70573,0.75362,9.31468,0.99997,0.64811,0.75359,Nein
+Hardware-Zufall,0.31533,0.40799,0.51325,0.78034,10.15149,0.99996,0.54518,0.91641,Ja
