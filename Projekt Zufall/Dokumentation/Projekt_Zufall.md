@@ -430,7 +430,7 @@ Hadamard (QRNG)	            0.88934	    0.10544	    0.57840	    1.02033	    6.08
 ### Interpretation der statistischen Tests mit Fokus auf echtem Zufall, hier: Hadamard
  Chi²-Test (Goodness-of-Fit)
 
-#### Chi-QUadrat-Test 
+#### Chi-Quadrat-Test 
 
 Der Test bestätigt, dass die Verteilung der Nullen und Einsen nahezu perfekt 50/50 ist bei einem Wert von p = 0.88934. Dass die Hadamardreihe hier nicht auf den Wert 1 gekommen ist, zeigt die naürliche Fluktuation. Der Wert würde sich weiter gen 1 vergrößern, wenn wir eine größere Probe hätten. Bei 100.000 Bits sind eine Abweichung von rund 0.12% erwartbar. Demnach wäre ein Wert von 1 zu perfekt. 
 Anders als der Python Pseudozufall (p = 0.97982). Dieser Algortihmus ist darauf getrimmt eine sehr hohe Gleichverteilung zu haben.
