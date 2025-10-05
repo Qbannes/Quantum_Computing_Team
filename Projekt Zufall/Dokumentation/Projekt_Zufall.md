@@ -3,7 +3,7 @@
 
 ## Einführung
 
-Zufälle spielen eine zentrale Rolle in der Informatik, von Simulationen über Kryptografie bis hin zu Algorithmen des Maschinellen Lernens. Allerdings ist nicht jeder Zufall Gleich. Da wären die **klassischen Zufallsalgorithmen** die sogenannten PRNG (Pseudo Random Number Generator). Sie erzeugen nur scheinbar zufällige Zahlen. Sie sind deterministisch und basieren auf mathematische Abfolgen. **Quantencomputer** nutzen dagegen fundamentale Quantenprozesse wie Superposition und Kollaps, um echten Zufall zu generieren nach aktuellem Stand der Wissenschaft.
+Zufälle spielen eine zentrale Rolle in der Informatik, von Simulationen über Kryptografie bis hin zu Algorithmen des Maschinellen Lernens. Allerdings ist nicht jeder Zufall Gleich. Da wären die **klassischen Zufallsalgorithmen**, die sogenannten PRNG (Pseudo Random Number Generator). Sie erzeugen nur scheinbar zufällige Zahlen. Sie sind deterministisch und basieren auf mathematische Abfolgen. **Quantencomputer** nutzen dagegen fundamentale Quantenprozesse wie Superposition und Kollaps, um echten Zufall zu generieren nach aktuellem Stand der Wissenschaft.
 
 ## Ziel des Projekts
 
